@@ -13,6 +13,10 @@ Este é um programa de conversão de moedas que permite aos usuários realizar c
   <li>Interface interativa de linha de comando para facilitar o uso.</li>
 </ul>
 
+<h3>Imagem do progama em execução</h3>
+
+![image](https://github.com/user-attachments/assets/ae94cdf7-af2c-4e5d-9e5e-ab3511eba921)
+
 
 ✔️ Técnicas e tecnologias utilizadas
 
@@ -23,4 +27,5 @@ Este é um programa de conversão de moedas que permite aos usuários realizar c
   <li>Paradigma de orientação a objetos</li>
   <li>ExchangeRate-API (para obter as taxas de câmbio em tempo real)</li>  
 </ul>
+
 
